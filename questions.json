@@ -1,0 +1,259 @@
+{
+  "heading": "Subject-Verb Agreement Part 1.",
+  "topics": [
+    {
+      "heading": "Subject-Verb Agreement Part 1.",
+      "questions": [
+        {
+            "questionNo": 1,
+            "question": "On the second Sunday of every month, she goes out to buy biscuits, get her car washed, and meet Rose. Which is the finite verb in the sentence?",
+            "options": [
+                "Go",
+                "To buy",
+                "Get",
+                "Meet"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 2,
+            "question": "Honey tastes sweet.<br> Is the above sentence grammatically correct?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 3,
+            "question": "The verb agrees with the preceding noun or sentence when using:",
+            "options": [
+                "Fractions",
+                "Percentages",
+                "Indefinite quantifiers",
+                "All of the above"
+            ],
+            "answer": 3
+        },
+        {
+            "questionNo": 4,
+            "question": "Seventy-two percent of these machines are outdated.<br> Is the above sentence grammatically correct?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 5,
+            "question": "'Time' is frequently expressed by using a singular verb.",
+            "options": [
+                "Correct",
+                "Incorrect"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 6,
+            "question": "Which sentence is grammatically correct?<br>I. Thirty percent of this mob is stupid <br>II. Thirty percent of this mob are stupid.",
+            "options": [
+                "None of them",
+                "Both I and II",
+                "Only I",
+                "Only II"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 7,
+            "question": "The verb agrees with the preceding noun or sentence when using indefinite quantifiers.",
+            "options": [
+                "Correct",
+                "Incorrect"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 8,
+            "question": "Which is the finite verb in the sentence below:<br> 'They love eating continental cuisine.'",
+            "options": [
+                "Loved eating",
+                "Love",
+                "Eating",
+                "All of the above"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 9,
+            "question": "'Distance' is frequently expressed using a singular verb.",
+            "options": [
+                "Correct",
+                "Incorrect"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 10,
+            "question": "In which case is the subject always placed after the verb?",
+            "options": [
+                "When there is a fraction",
+                "When it starts with ‘here’ or ‘there’.",
+                "When it starts without any subject",
+                "All of the above"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 11,
+            "question": "Which Subject-verb Agreement is expressed through the sentence below?<br> 'The majority has supported the ‘go green’ initiative.'",
+            "options": [
+                "When ‘majority’/’minority’ refer to an undetermined number greater or less than 50%, use a singular verb.",
+                "When ‘majority’/’minority’ refers to a given percentage, you can use a singular or plural verb.",
+                "When the ‘majority’ or ‘minority’ refers to a specific group of people, use a plural verb.",
+                "All of the above"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 12,
+            "question": "'Money' is frequently expressed using a singular verb.",
+            "options": [
+                "Correct",
+                "Incorrect"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 13,
+            "question": "The verb agrees with the preceding noun or sentence when using fractions.",
+            "options": [
+                "Correct",
+                "Incorrect"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 14,
+            "question": "…………………………….. prefixed by ‘the’ and used as plural nouns require a plural verb:",
+            "options": [
+                "Pronouns",
+                "Nouns",
+                "Adjectives",
+                "Noun Equivalents"
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 15,
+            "question": "A number of monkeys were jumping on the terrace.<br> Is the above sentence grammatically correct?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 16,
+            "question": "The number of doctors registered with this NGO is 37.<br> Is the above sentence grammatically correct?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 17,
+            "question": "Which sentence is grammatically correct?<br>I. An 80% majority stand for the victim.<br> II. An 80% majority stands for the victim.",
+            "options": [
+                "Both I and II",
+                "Only I",
+                "Only II",
+                "None of the above"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 18,
+            "question": "Select the correct option with regard to the sentence below:<br> 'David seems to be sad.'",
+            "options": [
+                "Subject -Verb concord is missing.",
+                "No correction needed.",
+                "Both A and B",
+                "Wrong verb-form is used."
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 19,
+            "question": "The verb agrees with the preceding noun or sentence when using percentages.",
+            "options": [
+                "Correct",
+                "Incorrect"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 20,
+            "question": "A non-finite Verb does not agree with the subject.",
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 21,
+            "question": "Which sentence(s) is grammatically correct?<br>I. Half of the cake is gone.<br>II. Half of the cakes are gone.",
+            "options": [
+                "I only",
+                "II Only",
+                "Both I and II",
+                "None of the above"
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 22,
+            "question": "Is the sentence below grammatically correct? <br>'One-fourth of the learners in Robert’s class have requested a short trip to the mountains.'",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 23,
+            "question": "Is the sentence below grammatically correct?<br> 'Sometimes two quarters of my office time is invested in site visits.'",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 24,
+            "question": "Choose the grammatically correct sentence.",
+            "options": [
+                "Horace misses his mother.",
+                "I miss my mother.",
+                "They miss their mother.",
+                "She misses her mother.",
+                "All of the above"
+            ],
+            "answer": 4
+        },
+        {
+            "questionNo": 25,
+            "question": "Is the sentence grammatically correct?<br>'Around 1% of the water on this planet is contained in snow and ice.'",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": 0
+        }
+    ]
+    
+    }
+  ]
+}
